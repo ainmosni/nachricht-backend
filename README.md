@@ -12,11 +12,21 @@ Mostly because I want to make one. I used to have my own blogging engine, but th
 
 What features will nachricht have?
 ----------------------------------
-The features I want to include are:
+The features I want to include on the first working release:
+* Writing and publishing of articles
 * Microservice architecture
 * Backend that supports multiple domains
 * OpenID authentication/authorisation
-* Probably more
+* Posting to twitter
+* Kubernetes deployment
+* REST API
+* Tags
+
+Features I want to add to add later:
+* A comment system
+* Posting to other social media
+* GRPC API
+* Anything that comes up in me
 
 What technology do you intend to use?
 -------------------------------------
